@@ -3,17 +3,25 @@ layout: single
 title: "Welcome to CHAI Studio"
 ---
 
-**CHAI Studio** is an indie playground for building tiny tools that explore the space between **AI and the Humanities**.
+**CHAI Studio** is a small, quiet corner where I explore the space between **AI and the Humanities.**
 
-For 8 weeks, I’m creating one small product each week:
+I come from a world of **classical languages and literature**, where a single line of poetry from a thousand years ago can open an entire universe of thought. I often ask myself:  
 
-- ✨ Apps for kids & parents (like a cartoon-style diary)
-- ✨ Reading companions for my students
-- ✨ Language tools for refugee camps
-- ✨ Playful writing experiments, gratitude trackers, and even a digital “me” avatar
+- *How close, how intimate, how relevant are those voices from the past to me today?*  
+- *And what about those absent voices—women, children, the vulnerable—who are barely represented in the sources we have?*  
 
-I’m not here to build the next billion-dollar startup—just to **learn, share, and get closer to a future where education with AI feels more *human*.**
+I believe in **slow reading** and even in challenging the very idea of *productivity*. Yet, like many, I struggle with the demands of modern life. My students rarely hold a paper book or read a long story—but they devour hundreds of short videos and log into certain platforms every day.  
 
-Follow along for **weekly builds, notes, and reflections** on what I’m learning.
+So I find myself asking:  
+
+> **What does “reading” mean in our current age? How is the past still relevant today?**  
+
+CHAI Studio is my way of thinking through these questions—sometimes through words, sometimes through tiny experiments with AI, and sometimes through playful tools for learning and reflection.  
+
+---
+
+🌱 **This is just the first step of a longer journey.**  
+
+I’m starting with an **8-week indie creator camp**, where I’ll build one small product each
 
 [→ Read the weekly blog posts](/blog/)
