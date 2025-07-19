@@ -23,3 +23,6 @@ Right now we’re in **Week 0**—just setting up the foundations.
 Stay tuned for **Week 1 in August**, where I’ll kick off with a simple habit-tracking app for Morning Goals & Evening Gratitude.
 
 Thanks for visiting—more soon! 🌱
+---
+
+👉 [Learn more about me →](/about/)
