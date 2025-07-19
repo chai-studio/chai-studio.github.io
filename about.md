@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi, I’m the indie creator behind **CHAI Studio**.
 
-I’m exploring how **AI and the Humanities** can create more curious, caring ways of learning. For now, I’m building one tiny product every week—testing ideas like:
+I’m exploring how **AI and Chinese Humanities** can create more curious, caring ways of learning. For now, I’m building one tiny product every week—testing ideas like:
 
 - 📝 Apps for kids & parents (like a cartoon-style diary)  
 - 📚 Reading companions for my students  
