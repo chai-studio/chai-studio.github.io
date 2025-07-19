@@ -3,7 +3,7 @@ layout: single
 title: "Welcome to CHAI Studio"
 ---
 
-**CHAI Studio** is a small, quiet corner where I explore the space between **AI and the Humanities.**
+**CHAI Studio** is a small, quiet corner where I explore the space between **Chinese Humanities and AI.**
 
 I come from a world of **classical languages and literature**, where a single line of poetry from a thousand years ago can open an entire universe of thought. I often ask myself:  
 
