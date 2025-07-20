@@ -114,8 +114,8 @@ analytics:
 # Site Author
 author:
   name             : "CHAI-Studio"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Story-teller, writer, educator. Trying to figure out: what's the future of the past in the age of AI?"
+  avatar           : /assets/images/author.jpeg
+  bio              : "Story-teller, writer, educator. rooted, caring for interconnection, wild and untamed. What's the future of the past in the age of AI?"
   location         : "Singapore"
   email            :
   links:
