@@ -1,10 +1,15 @@
 ---
-layout: post
 title: "DailyWhispers MVP: Day 1–2 Reflections"
 subtitle: "Building a quiet, mindful journaling app inside the Hardcore AI Builders Camp (硬核AI Builder 群)"
 date: 2025-07-24
-categories: indiecamp mvp
+categories:
+  - IndieCamp
+tags:
+  - week1
+  - mvp
+  - dailywhispers
 ---
+
 
 ## What is DailyWhispers · 暮语晨风?
 
