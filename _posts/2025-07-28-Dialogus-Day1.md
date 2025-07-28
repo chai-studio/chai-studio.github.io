@@ -1,5 +1,5 @@
 ---
-title: "Dialogus 小书童 | Week 2, Day 1 – Market Investigation"
+title: "Dialogus 小书童-Day1 Market Investigation"
 subtitle: "Exploring the current landscape of AI reading companions—and why I’m building my own"
 date: 2025-07-28
 categories:
