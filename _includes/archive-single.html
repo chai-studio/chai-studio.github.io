@@ -25,11 +25,13 @@
       <p class="post-subtitle">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>
     {% endif %}
     
-    <!-- Optional: Show metadata if you want -->
-{% comment %}
-  {% include page__meta.html type=include.type %}
-{% endcomment %}
 
     
   </article>
 </div>
+
+
+{%- comment -%}
+  Optional: Show metadata below each post title.
+  {% include page__meta.html type=include.type %}
+{%- endcomment -%}
