@@ -1,0 +1,215 @@
+---
+title: "Dialogus 小书童 | Week 2, Day 1 – Market Investigation"
+subtitle: "Exploring the current landscape of AI reading companions—and why I’m building my own"
+date: 2025-07-29
+categories:
+  - IndieCamp
+tags:
+  - week2
+  - market-survey
+  - dialogus
+  - reading-companion
+  - chai-studio
+---
+
+## 📚 What’s Already Out There? A Market Scan
+
+Before building 小书童, I wanted to see what tools already exist to help college students read better and think deeper—especially in a seminar-style setting.
+
+Here’s a snapshot of current AI reading assistants:
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Type</th>
+      <th>Key Features</th>
+      <th>Audience</th>
+      <th>Pricing</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Mindgrasp</td>
+      <td>Web App</td>
+      <td>Summarizes, flashcards, quizzes, Q&A</td>
+      <td>HS/College students</td>
+      <td>Free trial, then $9.99–$14.99/month</td>
+    </tr>
+    <tr>
+      <td>MyReader AI</td>
+      <td>Web App</td>
+      <td>Chat with books, summaries, multi-doc</td>
+      <td>Students, researchers</td>
+      <td>Free tier; $6–$15/month</td>
+    </tr>
+    <tr>
+      <td>ChatPDF</td>
+      <td>Web Tool</td>
+      <td>Chat with PDF, summaries, citations</td>
+      <td>Students, researchers</td>
+      <td>Free (limited); Premium tier</td>
+    </tr>
+    <tr>
+      <td>Humata AI</td>
+      <td>Web App</td>
+      <td>Chat with files, team features, summaries</td>
+      <td>Students, teams</td>
+      <td>Free (limited); $1.99–$49/month</td>
+    </tr>
+    <tr>
+      <td>SciSpace Copilot</td>
+      <td>Web Platform</td>
+      <td>Explain complex papers, literature review</td>
+      <td>Academics</td>
+      <td>Free (limited); $12/month</td>
+    </tr>
+    <tr>
+      <td>Scholarcy</td>
+      <td>Web App/Extension</td>
+      <td>Summaries, flashcards, bibliographies</td>
+      <td>Students, researchers</td>
+      <td>Free (limited); $9.99/month</td>
+    </tr>
+    <tr>
+      <td>Quizlet Q-Chat</td>
+      <td>Chatbot in Quizlet</td>
+      <td>Adaptive tutor, flashcards, Socratic</td>
+      <td>HS/College students</td>
+      <td>Free (beta); later premium</td>
+    </tr>
+    <tr>
+      <td>ChatGPT, Bing, etc.</td>
+      <td>Chatbot</td>
+      <td>Flexible chat, summaries, Q&A</td>
+      <td>General users</td>
+      <td>Free & $20/month</td>
+    </tr>
+    <tr>
+      <td>Adobe Acrobat AI</td>
+      <td>Web Tool</td>
+      <td>Summarizes, citations, highlight in-PDF</td>
+      <td>Broad (students, pros)</td>
+      <td>Free (online); may bundle</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+## 🚧 What’s Still Missing?
+
+Despite these tools, there are still major gaps when it comes to reading in a reflective, seminar-style environment:
+
+- **Pre-reading guidance** – No tool tells you what to watch for or how to connect it to past learning.
+- **Post-reading reflection** – Very few help you ask questions or prep for class discussions.
+- **Active engagement** – Most tools just summarize; they don’t guide your thinking or challenge you.
+- **Knowledge synthesis** – Nothing really connects ideas across readings or builds your personal knowledge tree.
+- **Personalized support** – Current tools don’t remember you, your habits, or struggles.
+
+---
+
+## 💡 Why I’m Building 小书童 | Dialogus
+
+Inspired by these gaps, my next product will be called **Dialogus**—a reading companion that brings back the art of questioning and conversation.
+
+> It won’t just give you answers. It will help you ask better questions.
+
+MVP features will include:
+- Contextual questions before you read
+- Interactive chat during reading to clarify or reflect
+- Post-reading prompts to help you prep for class
+- Option to save insights, map key concepts, and return to them later
+
+It’s Socratic, Confucian, and Zhuangzian—through and through.
+
+Stay tuned. Tomorrow I’ll start designing the interface and prompt engine.
+
+---
+
+See full tool profiles [here](#appendix-detailed-profiles-of-current-ai-reading-tools).
+<details>
+<summary>📖 Appendix: Full Tool Profiles – Click to Expand</summary>
+
+<br>
+
+### 🔸 Mindgrasp  
+**Type & Target:** Web app for high school and college students.  
+**Key Features:** Summarizes PDFs, generates flashcards, quizzes, and answers questions. Integrates with LMS systems like Canvas.  
+**Pricing:** Free trial, then $9.99–$14.99/month.  
+**Strengths:** Great for saving time; turns dense texts into manageable, study-ready formats. LMS integration is a bonus.  
+**Limitations:** Primarily reactive—it responds to what you upload but doesn’t proactively guide thinking or discussion.  
+
+---
+
+### 🔸 MyReader AI  
+**Type & Target:** Web app aimed at students, researchers, and professionals.  
+**Key Features:** Upload and chat with books, papers, YouTube lectures. Supports multi-document queries and audio playback.  
+**Pricing:** Free tier (~100 pages, 5 queries/day), Lite $6/month, Pro $15/month.  
+**Strengths:** Strong comprehension support. Useful for on-the-go listening. Good citation referencing.  
+**Limitations:** Lacks structured prompts or reflection questions. Upload limits on the free tier.  
+
+---
+
+### 🔸 ChatPDF  
+**Type & Target:** Web tool for students and researchers.  
+**Key Features:** Upload a PDF and interact with it via AI-generated summaries and Q&A. Multi-file folders and multilingual support.  
+**Pricing:** Free (2 PDFs/day), paid version with expanded access.  
+**Strengths:** Excellent for skimming or referencing specific sections. Quick, low-friction use.  
+**Limitations:** No deep questioning or post-reading synthesis. Purely text-bound; no external context.  
+
+---
+
+### 🔸 Humata AI  
+**Type & Target:** Web app used by students and teams working on documents.  
+**Key Features:** Chat with files, summarize, compare across documents, team sharing and collaboration.  
+**Pricing:** Free for 60 pages/month; Student $1.99/mo; Expert $9.99/mo; Team $49/user/mo.  
+**Strengths:** Fast info extraction. Cites sources clearly. Team-ready.  
+**Limitations:** Focused on access not pedagogy. Responses are formal, not reflective.  
+
+---
+
+### 🔸 SciSpace Copilot  
+**Type & Target:** Web platform for academics and advanced students.  
+**Key Features:** Reads and explains PDFs (incl. math), literature search, connects to prior research.  
+**Pricing:** Free tier; Premium $12/month.  
+**Strengths:** Excellent for complex research papers and STEM learning.  
+**Limitations:** Learning curve. Less helpful with literary or open-ended texts.  
+
+---
+
+### 🔸 Scholarcy  
+**Type & Target:** Web app & browser extension for undergrad to PhD.  
+**Key Features:** Creates summary flashcards, highlights claims, exports references.  
+**Pricing:** Free limited; Premium $9.99/month.  
+**Strengths:** Excellent pre-reading prep. Flashcards encourage active recall.  
+**Limitations:** No chat. Best for structured content, not deep reflection.  
+
+---
+
+### 🔸 Quizlet Q-Chat  
+**Type & Target:** Chatbot in Quizlet for HS/college learners.  
+**Key Features:** Adaptive tutor, flashcards, Socratic questioning.  
+**Pricing:** Free beta; likely premium later.  
+**Strengths:** Encourages recall, feels friendly.  
+**Limitations:** Works best with Quizlet sets and factual material.  
+
+---
+
+### 🔸 ChatGPT, Bing, Bard  
+**Type & Target:** General AI chatbots widely used by students.  
+**Key Features:** Summarization, Q&A, discussion simulation.  
+**Pricing:** Free + $20/month (ChatGPT Plus).  
+**Strengths:** Extremely flexible. Can simulate a class discussion.  
+**Limitations:** Needs prompting, can hallucinate, lacks structure.  
+
+---
+
+### 🔸 Adobe Acrobat AI  
+**Type & Target:** PDF tool for students & professionals.  
+**Key Features:** Summarizes, answers questions, highlights text.  
+**Pricing:** Free online; may become bundled.  
+**Strengths:** Clean UI, good for navigating long PDFs.  
+**Limitations:** Purely extractive. Doesn’t provoke reflection or synthesis.  
+
+</details>
