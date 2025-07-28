@@ -127,7 +127,7 @@ Stay tuned. Tomorrow I’ll start designing the interface and prompt engine.
 
 ---
 
-See full tool profiles [here](#appendix-detailed-profiles-of-current-ai-reading-tools).
+See full tool profiles by unfolding this: 
 <details>
 <summary>📖 Appendix: Full Tool Profiles – Click to Expand</summary>
 
