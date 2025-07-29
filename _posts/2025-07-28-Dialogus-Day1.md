@@ -10,6 +10,7 @@ tags:
   - dialogus
   - reading-companion
   - chai-studio
+related: true
 ---
 
 ## 📚 What’s Already Out There? A Market Scan
@@ -214,4 +215,3 @@ See full tool profiles by unfolding this:
 </div>
 </details>
 
-related: true
