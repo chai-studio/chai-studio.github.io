@@ -127,11 +127,11 @@ Stay tuned. Tomorrow I’ll start designing the interface and prompt engine.
 
 ---
 
-See full tool profiles by unfolding this: 
+See full tool profiles by unfolding this:
+
 <details>
 <summary>📖 Appendix: Full Tool Profiles – Click to Expand</summary>
-
-<br>
+<div markdown="1">
 
 ### 🔸 Mindgrasp  
 **Type & Target:** Web app for high school and college students.  
@@ -200,8 +200,7 @@ See full tool profiles by unfolding this:
 **Type & Target:** General AI chatbots widely used by students.  
 **Key Features:** Summarization, Q&A, discussion simulation.  
 **Pricing:** Free + $20/month (ChatGPT Plus).  
-**Strengths:** Extremely flexible. Can simulate a class discussion.  
-**Limitations:** Needs prompting, can hallucinate, lacks structure.  
+**Strengths:** Extremely flexib
 
 ---
 
@@ -212,4 +211,5 @@ See full tool profiles by unfolding this:
 **Strengths:** Clean UI, good for navigating long PDFs.  
 **Limitations:** Purely extractive. Doesn’t provoke reflection or synthesis.  
 
+</div>
 </details>
