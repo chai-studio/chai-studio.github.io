@@ -57,4 +57,37 @@ search: false
   box-shadow: 0 1px 3px rgba(0,0,0,0.05);
 }
 
+# add a card layout
+.related-mini-cards {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  margin-top: 1em;
+}
+
+.related-card {
+  flex: 1 1 48%;
+  background-color: #f9f9f9;
+  padding: 1em 1.2em;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  transition: box-shadow 0.2s ease;
+
+  &:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  }
+
+  .related-title {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 0.3rem;
+  }
+
+  .related-subtitle {
+    font-size: 0.85rem;
+    color: #666;
+    line-height: 1.5;
+  }
+}
 
