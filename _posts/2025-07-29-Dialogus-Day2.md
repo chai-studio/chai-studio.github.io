@@ -9,6 +9,7 @@ tags:
   - dialogus
   - mvp
   - chai-studio
+  - XiaoShutong
 ---
 
 ## 🧱 I thought today was for scaffolding...
@@ -107,3 +108,4 @@ But tonight, I’ll sit quietly with this:
 > Not just an app, but a reading space with a mind.
 
 — CHAI Studio
+
