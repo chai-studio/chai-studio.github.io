@@ -327,3 +327,6 @@ defaults:
       comments: # true
       share: true
       related: true
+
+# Disable heading anchor links
+heading_anchors: false
