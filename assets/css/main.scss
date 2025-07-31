@@ -91,3 +91,7 @@ search: false
   }
 }
 
+// Hides the anchor link icon and text next to headings
+.header-link {
+  display: none !important;
+}
