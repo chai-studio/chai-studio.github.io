@@ -1,11 +1,20 @@
-{% assign posts = include.posts | where_exp: "post", "post.hidden != true" %}
+{% assign posts = include.posts | where_exp: "post", "post.hidden != true" | slice: 0, 2 %}
+{% if posts.size > 0 %}
 <div class="page__related">
-  {% include before-related.html %}
   <h2 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h2>
-  <div class="grid__wrapper">
-    {% for post in posts limit:4 %}
-      {% if post.id == page.id %}{% continue %}{% endif %}
-      {% include archive-single.html type="grid" %}
+  <div class="related-mini-cards">
+    {% for post in posts %}
+    <div class="related-card">
+      <a href="{{ post.url | relative_url }}">
+        <h4 class="related-title">{{ post.title }}</h4>
+        {% if post.subtitle %}
+          <p class="related-subtitle">{{ post.subtitle }}</p>
+        {% elsif post.excerpt %}
+          <p class="related-subtitle">{{ post.excerpt | strip_html | truncate: 100 }}</p>
+        {% endif %}
+      </a>
+    </div>
     {% endfor %}
   </div>
 </div>
+{% endif %}
